@@ -3,11 +3,11 @@ A mini 1 page home-page for a Candy website with responsive design, to showcase 
 
 **Skills used**
 
--HTML 
--JavaScript 
--Css  
--Bootstrap  
--Responsive-Design  
+-HTML   
+-JavaScript   
+-Css    
+-Bootstrap    
+-Responsive-Design    
 
 
 ## How to Use
